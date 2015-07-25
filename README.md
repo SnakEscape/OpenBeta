@@ -43,8 +43,3 @@ Your system information must include:
 - if Mac, the model and revision of your hardware
 - your Graphics card info (manufacturer, card version), any and all graphics driver versions
 - anything else that you think may be useful (mouse/keyboard, filesystem type, etc).
-
-The preferred and easiest way to get this information is from Steam's Hardware Information viewer from the menu (`Help -> System Information`).
-
-Once your information appears: right-click within the dialog, choose `Select All`, right-click again, and then choose `Copy`.
-Paste this information into your report, preferably in a code block or a [gist](https://gist.github.com).
